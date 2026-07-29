@@ -41,6 +41,45 @@ function renderTechStack(techArr) {
 
 /* ---- DATA ---- */
 const projectData = [
+  // ──────── GYM ────────
+  {
+    category: "Gym",
+    icon: "🏋️",
+    name: "ShotFit",
+    desc: "Fitness & gym HTML template with class scheduling, trainer profiles & shop.",
+    tech: ["HTML", "CSS", "JS", "Bootstrap"],
+    pages: "Home, About, Classes, Schedule, Trainer, Gallery, Shop, Blog, Contact",
+    link: "https://ex-coders.com/html/shotfit/index.html?storefront=envato-elements"
+  },
+  {
+    category: "Gym",
+    icon: "🏋️",
+    name: "GYMORT",
+    desc: "Fitness & gym HTML template with 5 home pages, 55+ inner pages & multiple layouts.",
+    tech: ["HTML", "CSS", "jQuery", "Bootstrap 5"],
+    pages: "Multiple Home Demos, About, Team, BMI, Timetable, Program, Pricing, Blog, Gallery, 404, Coming Soon",
+    link: "https://up2client.com/envato/gymort/preview-file/preview.html?storefront=envato-elements"
+  },
+  {
+    category: "Gym",
+    icon: "🏋️",
+    name: "Gymfito",
+    desc: "Fitness & gym HTML template with BMI calculator, trainer profiles & pricing plans.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, About, Services, Classes, Trainer, Schedule, Pricing, Gallery, Blog, Contact",
+    link: "https://gymfito.vercel.app/?storefront=envato-elements"
+  },
+  {
+    category: "Gym",
+    icon: "🏋️",
+    name: "BODKIT",
+    desc: "Gym & fitness HTML template with training schedules, team profiles & BMI calculator.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, About, Services, Trainings, Schedule, Team, FAQ, Pricing, Blog, Contact, 404",
+    link: "https://bodkit-html.vercel.app/?storefront=envato-elements"
+  },
+
+  // ──────── REAL ESTATE ────────
   {
     category: "Real Estate",
     icon: "🏘️",
@@ -105,6 +144,7 @@ projectData.forEach((p) => {
 });
 
 const categoryMeta = {
+  Gym:            { icon: "🏋️", desc: "Fitness & gym websites with class scheduling & trainer profiles." },
   "Real Estate":  { icon: "🏘️", desc: "Property portals with listings, maps & agent directories." },
   Hospital:       { icon: "🏥", desc: "Healthcare websites with appointments & doctor profiles." },
   "Import/Export":{ icon: "🌍", desc: "Global trade & sourcing websites with product catalogs." },

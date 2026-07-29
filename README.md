@@ -42,6 +42,10 @@ freelance-portfolio-website/
 
 | Category        | Project               | Tech                  | Link |
 |-----------------|-----------------------|-----------------------|------|
+| 🏋️ Gym         | ShotFit               | HTML, CSS, JS, Bootstrap | [Live Demo](https://ex-coders.com/html/shotfit/index.html?storefront=envato-elements) |
+| 🏋️ Gym         | GYMORT                | HTML, CSS, jQuery, Bootstrap 5 | [Live Demo](https://up2client.com/envato/gymort/preview-file/preview.html?storefront=envato-elements) |
+| 🏋️ Gym         | Gymfito               | HTML, CSS, JS         | [Live Demo](https://gymfito.vercel.app/?storefront=envato-elements) |
+| 🏋️ Gym         | BODKIT                | HTML, CSS, JS         | [Live Demo](https://bodkit-html.vercel.app/?storefront=envato-elements) |
 | 🏘️ Real Estate | StayHaven Holdings    | Next.js, Tailwind CSS | [Live Demo](https://lode-website-demo.vercel.app/) |
 | 🏘️ Real Estate | Banff Retreat         | Next.js, Bootstrap    | [Live Demo](https://chauhan2023.github.io/real-state-demo/) |
 | 🏘️ Real Estate | Grand Spruce Lodge    | Next.js               | [Live Demo](https://chauhan2023.github.io/kahris/) |
