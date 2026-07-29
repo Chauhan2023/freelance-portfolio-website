@@ -126,6 +126,14 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 🔒 Security
+
+- No server-side code — static files only
+- No user data collection
+- All external deps loaded via trusted CDNs
+
+---
+
 ## 🔍 SEO
 
 - Semantic HTML structure
