@@ -126,6 +126,14 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 🙏 Acknowledgments
+
+- [Bootstrap 5](https://getbootstrap.com/) — UI framework
+- [Bootstrap Icons](https://icons.getbootstrap.com/) — icon set
+- [Devicon](https://devicon.dev/) — tech stack logos
+
+---
+
 ## ⚡ Performance
 
 - **No build step** — pure HTML/CSS/JS
