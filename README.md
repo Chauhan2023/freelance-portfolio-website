@@ -126,6 +126,20 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 📂 Categories Available
+
+| Category | Projects | Icon |
+|----------|----------|------|
+| Gym | 4 | 🏋️ |
+| School | 8 | 🏫 |
+| Real Estate | 3 | 🏘️ |
+| Hospital | 4 | 🏥 |
+| Import/Export | 4 | 🌍 |
+| Cafe / Restaurant | 4 | 🍽️ |
+| Furniture | 4 | 🛋️ |
+
+---
+
 ## 🚢 Deployment
 
 This is a static site. Deploy anywhere:
