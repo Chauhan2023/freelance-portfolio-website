@@ -126,6 +126,14 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## ⚡ Performance
+
+- **No build step** — pure HTML/CSS/JS
+- **CDN-loaded** dependencies — no `node_modules`
+- **Lightweight** — under 50KB total (excluding CDN)
+
+---
+
 ## 📋 Changelog
 
 ### v1.0.0 (2026-07-30)
