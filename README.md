@@ -126,6 +126,14 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 💬 Support
+
+If you find a bug or have a feature request, please [open an issue](https://github.com/Chauhan2023/freelance-portfolio-website/issues) on GitHub.
+
+For direct help, email us at **contact@websharthi.com**.
+
+---
+
 ## 📂 Categories Available
 
 | Category | Projects | Icon |
