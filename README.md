@@ -126,6 +126,18 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+1. Fork the repo
+2. Create your feature branch (`git checkout -b feature/amazing`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing`)
+5. Open a Pull Request
+
+---
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
