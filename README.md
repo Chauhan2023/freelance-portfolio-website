@@ -126,6 +126,19 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## ❓ FAQ
+
+**Q: Do I need to install anything?**
+A: No. Just open `index.html` in a browser.
+
+**Q: How do I add a new project?**
+A: Append an object to the `projectData` array in `js/script.js`. See the "Adding a New Project" section above.
+
+**Q: Can I change the theme colors?**
+A: Yes. Edit the CSS variables in `css/style.css`.
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
