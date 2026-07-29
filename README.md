@@ -46,6 +46,14 @@ freelance-portfolio-website/
 | 🏋️ Gym         | GYMORT                | HTML, CSS, jQuery, Bootstrap 5 | [Live Demo](https://up2client.com/envato/gymort/preview-file/preview.html?storefront=envato-elements) |
 | 🏋️ Gym         | Gymfito               | HTML, CSS, JS         | [Live Demo](https://gymfito.vercel.app/?storefront=envato-elements) |
 | 🏋️ Gym         | BODKIT                | HTML, CSS, JS         | [Live Demo](https://bodkit-html.vercel.app/?storefront=envato-elements) |
+| 🏫 School      | KidsAcademy           | HTML, CSS, JS         | [Live Demo](https://aminurislam.com/labartisan/kidsacademy-demo/kidsacademy/one-page.html) |
+| 🏫 School      | StudyKids             | HTML, CSS, JS         | [Live Demo](https://html.themewant.com/studykids/) |
+| 🏫 School      | DrivePro              | HTML, CSS, JS         | [Live Demo](https://demoxml.com/html/drivepro/) |
+| 🏫 School      | Danceing              | HTML, CSS, JS, Bootstrap | [Live Demo](https://www.redbitesystems.com/themes/dance/index.html) |
+| 🏫 School      | Shiv Nadar School     | Next.js               | [Live Demo](https://shivnadarschool.edu.in/) |
+| 🏫 School      | SPA Delhi             | HTML, CSS, JS         | [Live Demo](https://www.spa.ac.in/) |
+| 🏫 School      | St. Columba's School  | HTML, CSS, JS         | [Live Demo](https://stcolumbas.edu.in/) |
+| 🏫 School      | St. Thomas' School    | HTML, CSS, JS         | [Live Demo](https://stthomasdwarka.com/) |
 | 🏘️ Real Estate | StayHaven Holdings    | Next.js, Tailwind CSS | [Live Demo](https://lode-website-demo.vercel.app/) |
 | 🏘️ Real Estate | Banff Retreat         | Next.js, Bootstrap    | [Live Demo](https://chauhan2023.github.io/real-state-demo/) |
 | 🏘️ Real Estate | Grand Spruce Lodge    | Next.js               | [Live Demo](https://chauhan2023.github.io/kahris/) |

@@ -79,6 +79,80 @@ const projectData = [
     link: "https://bodkit-html.vercel.app/?storefront=envato-elements"
   },
 
+  // ──────── SCHOOL ────────
+  {
+    category: "School",
+    icon: "🏫",
+    name: "KidsAcademy",
+    desc: "Kids education HTML template with class management, teacher profiles & gallery.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, About, Classes, Teachers, Gallery, Blog, Contact",
+    link: "https://aminurislam.com/labartisan/kidsacademy-demo/kidsacademy/one-page.html"
+  },
+  {
+    category: "School",
+    icon: "🏫",
+    name: "StudyKids",
+    desc: "LMS & university HTML template with courses, events & pricing plans.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home (4 styles), About, Team, Event, Program, Pricing, Courses, Blog, Contact",
+    link: "https://html.themewant.com/studykids/"
+  },
+  {
+    category: "School",
+    icon: "🏫",
+    name: "DrivePro",
+    desc: "Driving school HTML template with instructor profiles & course packages.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, About, Services, Instructors, Courses, Pricing, Blog, Contact",
+    link: "https://demoxml.com/html/drivepro/"
+  },
+  {
+    category: "School",
+    icon: "🏫",
+    name: "Danceing",
+    desc: "Dance studio HTML template with class schedules, events & instructor profiles.",
+    tech: ["HTML", "CSS", "JS", "Bootstrap"],
+    pages: "Home, About, Services, Classes, Team, Gallery, Events, Blog, Contact",
+    link: "https://www.redbitesystems.com/themes/dance/index.html"
+  },
+  {
+    category: "School",
+    icon: "🏫",
+    name: "Shiv Nadar School",
+    desc: "Premier K-12 school website with curriculum details, admissions & campus info.",
+    tech: ["Next.js"],
+    pages: "Home, About, Learn, Explore, Innovate, Evolve, Admissions, Careers, Schools",
+    link: "https://shivnadarschool.edu.in/"
+  },
+  {
+    category: "School",
+    icon: "🏫",
+    name: "SPA Delhi",
+    desc: "School of Planning & Architecture — institution website with academics, research & placements.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, About, Departments, Academics, Admissions, Research, Placement, Resources, Events",
+    link: "https://www.spa.ac.in/"
+  },
+  {
+    category: "School",
+    icon: "🏫",
+    name: "St. Columba's School",
+    desc: "K-12 school website with academic excellence, achievements & parent portal.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, About, Academics, Achievements, Gallery, Publications, Alumni, Admissions, Contact",
+    link: "https://stcolumbas.edu.in/"
+  },
+  {
+    category: "School",
+    icon: "🏫",
+    name: "St. Thomas' School",
+    desc: "CBSE-affiliated school website with academics, co-curricular & admissions portal.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, About, Academics, Beyond Academics, Infrastructure, Admissions, Gallery, Contact",
+    link: "https://stthomasdwarka.com/"
+  },
+
   // ──────── REAL ESTATE ────────
   {
     category: "Real Estate",
@@ -145,6 +219,7 @@ projectData.forEach((p) => {
 
 const categoryMeta = {
   Gym:            { icon: "🏋️", desc: "Fitness & gym websites with class scheduling & trainer profiles." },
+  School:         { icon: "🏫", desc: "School & education websites with academics, admissions & events." },
   "Real Estate":  { icon: "🏘️", desc: "Property portals with listings, maps & agent directories." },
   Hospital:       { icon: "🏥", desc: "Healthcare websites with appointments & doctor profiles." },
   "Import/Export":{ icon: "🌍", desc: "Global trade & sourcing websites with product catalogs." },
