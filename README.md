@@ -126,6 +126,14 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 📞 Contact Info
+
+- **Email:** contact@websharthi.com
+- **Phone:** +91 7493 097 468
+- **GitHub:** [Chauhan2023](https://github.com/Chauhan2023)
+
+---
+
 ## 🙏 Acknowledgments
 
 - [Bootstrap 5](https://getbootstrap.com/) — UI framework
