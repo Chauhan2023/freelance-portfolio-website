@@ -123,3 +123,9 @@ The category card & modal will auto-generate. New tech logos can be added to `te
     <a href="https://github.com/Chauhan2023/freelance-portfolio-website">🔗 Repository</a>
   </p>
 </div>
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
