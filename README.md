@@ -83,6 +83,17 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 🌐 Browser Support
+
+| Browser | Supported |
+|---------|-----------|
+| Chrome  | ✅        |
+| Firefox | ✅        |
+| Safari  | ✅        |
+| Edge    | ✅        |
+
+---
+
 ## 🚀 Getting Started
 
 1. **Clone** the repository
