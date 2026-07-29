@@ -126,6 +126,15 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 🔍 SEO
+
+- Semantic HTML structure
+- Mobile-first responsive design
+- Fast load times (no build step)
+- Accessible color contrast
+
+---
+
 ## 🗺️ Roadmap
 
 - [x] Category-based layout
