@@ -200,6 +200,24 @@ const projectData = [
     link: "https://aakashhealthcare.com/"
   },
   {
+    category: "Hospital",
+    icon: "🏥",
+    name: "Kailash Healthcare",
+    desc: "Multispeciality hospital chain in Delhi NCR with 40+ years of legacy, robotic surgeries & 9+ hospital locations.",
+    tech: ["Next.js"],
+    pages: "Home, Specialities, Doctors, OPD Timings, Health Packages, International Patients, Contact",
+    link: "https://www.kailashhealthcare.com/"
+  },
+  {
+    category: "Hospital",
+    icon: "🏥",
+    name: "Apollo Hospitals",
+    desc: "India's largest private hospital network with 75 hospitals, 13000+ doctors & comprehensive multispeciality care across 200+ cities.",
+    tech: ["Next.js"],
+    pages: "Home, Find a Doctor, Centres of Excellence, Health Library, International Patients, Book Appointment",
+    link: "https://www.apollohospitals.com/"
+  },
+  {
     category: "Import/Export",
     icon: "🌍",
     name: "Steadfast Overseas",
@@ -207,6 +225,107 @@ const projectData = [
     tech: ["React"],
     pages: "Home, About, Products, Sourcing, Contact",
     link: "https://steadfastoverseas.com/"
+  },
+  {
+    category: "Import/Export",
+    icon: "🌍",
+    name: "Extice",
+    desc: "Textile industry WordPress theme with fabric catalog, services & project showcase.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home (4 styles), Services, Projects, About Us, Team, Pricing Plans, Shop, Blog, FAQ, Contact",
+    link: "https://demo2.wpopal.com/extice/"
+  },
+  {
+    category: "Import/Export",
+    icon: "🌍",
+    name: "Delfreight",
+    desc: "Logistics & freight WordPress theme with shipping services, real-time tracking & global network.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, About, Services, Team, Pricing, Testimonials, Blog, FAQ, Contact",
+    link: "https://demo.farmstudios.net/delfreight/"
+  },
+  {
+    category: "Import/Export",
+    icon: "🌍",
+    name: "Textica",
+    desc: "Textile & fabric industry WordPress theme with Elementor builder, WooCommerce & portfolio.",
+    tech: ["HTML", "CSS", "JS", "Bootstrap 5"],
+    pages: "Home (5 styles), About Us, Services, Pricing, Team, Shop, Portfolio, Blog, FAQ, Contact",
+    link: "https://textica.peacefulqode.co.in/landing/?nocache=355"
+  },
+  // ──────── CAFE / RESTAURANT ────────
+  {
+    category: "Cafe / Restaurant",
+    icon: "🍽️",
+    name: "Tastyc",
+    desc: "Premium restaurant & cafes WordPress theme with 6 demos, Elementor builder, menu system & reservation booking.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Landing, Restaurants/Cafes, Elegant, Fine Dining, Seafood, Coffee Shop, Bar & Pub",
+    link: "https://landing.bslthemes.com/tastyc/"
+  },
+  {
+    category: "Cafe / Restaurant",
+    icon: "🍽️",
+    name: "Piquant",
+    desc: "Restaurant, bar & café WordPress theme with food gallery, OpenTable reservations, shop & multiple homepage styles.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Original, About Us, Meet The Chefs, Our Services, Menu, Food Gallery, Blog, Shop, Reservations",
+    link: "https://piquant.qodeinteractive.com/"
+  },
+  {
+    category: "Cafe / Restaurant",
+    icon: "🍽️",
+    name: "Piquant Fullscreen",
+    desc: "Fullscreen homepage variant of the Piquant restaurant theme with immersive fullscreen slider layout.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Fullscreen Home, About, Menu, Gallery, Blog, Shop, Reservations",
+    link: "https://piquant.qodeinteractive.com/fullscreen-home/"
+  },
+  {
+    category: "Cafe / Restaurant",
+    icon: "🍽️",
+    name: "Chicago",
+    desc: "Restaurant, cafe, bar & bistro WordPress theme with menu management, reservation system & modern design.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, Menu, About, Reservations, Gallery, Blog, Contact",
+    link: "https://wpcharming.com/demos/?theme=chicago"
+  },
+  // ──────── FURNITURE ────────
+  {
+    category: "Furniture",
+    icon: "🛋️",
+    name: "Urban Ladder",
+    desc: "India's leading furniture & home decor brand offering sofas, beds, dining sets, wardrobes & home accessories.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, New Arrivals, Sofas, Beds, Dining, Storage, Decor, Furnishing",
+    link: "https://www.urbanladder.com/"
+  },
+  {
+    category: "Furniture",
+    icon: "🛋️",
+    name: "Pepperfry",
+    desc: "India's largest online furniture marketplace with 1L+ products across furniture, decor, lighting & more.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, Furniture, Decor, Lights, Furnishings, Modular Interiors, Stores",
+    link: "https://www.pepperfry.com/"
+  },
+  {
+    category: "Furniture",
+    icon: "🛋️",
+    name: "Wooden Street",
+    desc: "Solid wood furniture brand with 20L+ customers, 80+ experience stores & customised furniture solutions.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, Sofas, Beds, Dining, Storage, Study, Outdoor, Decor, Mattresses",
+    link: "https://www.woodenstreet.com/"
+  },
+  {
+    category: "Furniture",
+    icon: "🛋️",
+    name: "Royaloak",
+    desc: "International furniture brand with 200+ stores across India offering Italian, American & Malaysian collections.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, Living, Bedroom, Dining, Study, Outdoor, Decor, Furnishings, New Arrivals",
+    link: "https://www.royaloakindia.com/"
   }
 ];
 
@@ -223,6 +342,8 @@ const categoryMeta = {
   "Real Estate":  { icon: "🏘️", desc: "Property portals with listings, maps & agent directories." },
   Hospital:       { icon: "🏥", desc: "Healthcare websites with appointments & doctor profiles." },
   "Import/Export":{ icon: "🌍", desc: "Global trade & sourcing websites with product catalogs." },
+  "Cafe / Restaurant": { icon: "🍽️", desc: "Restaurant, cafe & bar websites with menus & reservations." },
+  Furniture:       { icon: "🛋️", desc: "Furniture & home decor e-commerce stores with product catalogs." },
 };
 
 /* ---- render category cards ---- */
