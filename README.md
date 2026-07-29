@@ -126,6 +126,18 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 🗺️ Roadmap
+
+- [x] Category-based layout
+- [x] Modal system for projects
+- [x] Dark theme with glassmorphism
+- [x] Stats counter section
+- [ ] Search/filter projects
+- [ ] Project detail pages
+- [ ] CMS integration
+
+---
+
 ## 📞 Contact Info
 
 - **Email:** contact@websharthi.com
