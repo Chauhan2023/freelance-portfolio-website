@@ -83,6 +83,17 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 🚀 Getting Started
+
+1. **Clone** the repository
+   ```sh
+   git clone https://github.com/Chauhan2023/freelance-portfolio-website.git
+   ```
+2. **Open** `index.html` in your browser — no build step needed.
+3. **Preview** with Live Server (VS Code) for the best experience.
+
+---
+
 ## 🧰 Tech Stack Used
 
 <p align="center">
