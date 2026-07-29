@@ -126,6 +126,19 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 🚢 Deployment
+
+This is a static site. Deploy anywhere:
+
+| Platform | Command |
+|----------|---------|
+| GitHub Pages | Push to `main` branch |
+| Vercel | `vercel --prod` |
+| Netlify | Drag & drop folder |
+| Firebase | `firebase deploy` |
+
+---
+
 ## 🔒 Security
 
 - No server-side code — static files only
