@@ -400,3 +400,43 @@ function openModal(category) {
 
   bsModal.show();
 }
+
+/* ---- navbar scroll effect ---- */
+window.addEventListener("scroll", () => {
+  const navbar = document.querySelector(".navbar");
+  navbar.classList.toggle("scrolled", window.scrollY > 50);
+});
+
+/* ---- stat counter animation ---- */
+function animateCounters() {
+  document.querySelectorAll(".stat-number").forEach((el) => {
+    const target = +el.getAttribute("data-count");
+    const duration = 1800;
+    const step = target / (duration / 16);
+    let current = 0;
+
+    const timer = setInterval(() => {
+      current += step;
+      if (current >= target) {
+        current = target;
+        clearInterval(timer);
+      }
+      el.textContent = Math.floor(current) + (target === 100 ? "" : "+");
+    }, 16);
+  });
+}
+
+const statsObserver = new IntersectionObserver(
+  (entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        animateCounters();
+        statsObserver.disconnect();
+      }
+    });
+  },
+  { threshold: 0.5 }
+);
+
+const statsSection = document.querySelector(".stats-section");
+if (statsSection) statsObserver.observe(statsSection);
