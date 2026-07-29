@@ -126,6 +126,15 @@ The category card & modal will auto-generate. New tech logos can be added to `te
 
 ---
 
+## 📋 Changelog
+
+### v1.0.0 (2026-07-30)
+- Initial release with category-based portfolio
+- Dark theme with glassmorphism cards
+- Modal system for project previews
+
+---
+
 ## ❓ FAQ
 
 **Q: Do I need to install anything?**
