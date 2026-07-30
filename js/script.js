@@ -218,6 +218,15 @@ const projectData = [
     link: "https://www.apollohospitals.com/"
   },
   {
+    category: "Hospital",
+    icon: "🏥",
+    name: "Pan Global Hospital",
+    desc: "Multi-speciality hospital in Madhubani, Bihar with 12+ departments, 24x7 emergency, Ayushman Bharat cashless treatment, modern operation theatres & NABL certified lab.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, About, Services, Doctors, Facilities, Schemes, Contact",
+    link: "https://shonnajones6.github.io/panglobalhospital/"
+  },
+  {
     category: "Import/Export",
     icon: "🌍",
     name: "Steadfast Overseas",
