@@ -326,6 +326,44 @@ const projectData = [
     tech: ["HTML", "CSS", "JS"],
     pages: "Home, Living, Bedroom, Dining, Study, Outdoor, Decor, Furnishings, New Arrivals",
     link: "https://www.royaloakindia.com/"
+  },
+  // ──────── MEDICAL ECOMMERCE ────────
+  {
+    category: "Medical eCommerce",
+    icon: "💊",
+    name: "Vicodin",
+    desc: "Medical & pharmacy eCommerce HTML template with product catalog, shop pages, health blog & appointment system.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, Shop, Product Details, Cart, Checkout, Blog, About, Services, Contact",
+    link: "https://tunatheme.com/tf/html/vicodin-preview/vicodin/index-2.html"
+  },
+  {
+    category: "Medical eCommerce",
+    icon: "💊",
+    name: "Medion",
+    desc: "Health & medical eCommerce template with medicine categories, lab tests, equipment shop & user dashboard.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home, Shop Grid, Shop List, Cart, Checkout, Blog, About, Team, FAQ, Contact",
+    link: "https://live.themewild.com/medion/"
+  },
+  {
+    category: "Medical eCommerce",
+    icon: "💊",
+    name: "Medibazar",
+    desc: "Medical equipment store built with Next.js & TypeScript featuring product listings, cart & checkout flow.",
+    tech: ["Next.js", "TypeScript"],
+    pages: "Home, Products, Product Detail, Cart, Checkout, About, Contact",
+    link: "https://medibazar-typescript.vercel.app/"
+  },
+  // ──────── CLINIC ────────
+  {
+    category: "Clinic",
+    icon: "👁️",
+    name: "Eye Care",
+    desc: "Ophthalmology & optometry WordPress theme with 3 homepage demos, doctor profiles, appointment booking & WooCommerce.",
+    tech: ["HTML", "CSS", "JS"],
+    pages: "Home (3 demos), Services, Doctors, Appointment, Shop, Blog, About, Contact",
+    link: "https://eye-care.cmsmasters.studio/"
   }
 ];
 
@@ -344,6 +382,8 @@ const categoryMeta = {
   "Import/Export":{ icon: "🌍", desc: "Global trade & sourcing websites with product catalogs." },
   "Cafe / Restaurant": { icon: "🍽️", desc: "Restaurant, cafe & bar websites with menus & reservations." },
   Furniture:       { icon: "🛋️", desc: "Furniture & home decor e-commerce stores with product catalogs." },
+  "Medical eCommerce": { icon: "💊", desc: "Pharmacy & medical equipment e-commerce stores with product catalogs." },
+  Clinic:          { icon: "👁️", desc: "Medical clinic websites with services, doctors & appointments." },
 };
 
 /* ---- render category cards ---- */
