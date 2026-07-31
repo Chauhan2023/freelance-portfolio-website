@@ -233,7 +233,7 @@ This is a static site. Deploy anywhere:
 
 | Version | Date | Changes |
 |---------|------|---------|
-| v1.1.0 | 2026-07-31 | Pan Global Hospital, README improvements |
+| v1.1.0 | 2026-07-31 | Pan Global Hospital added, README enhancements, CI badge, expanded FAQ |
 | v1.0.0 | 2026-07-30 | Initial release with 9 categories, 30+ projects |
 
 ---
