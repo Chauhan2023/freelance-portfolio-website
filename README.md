@@ -2,6 +2,7 @@
   <img src="https://img.shields.io/badge/Status-Live-4facfe?style=for-the-badge" alt="Status"/>
   <img src="https://img.shields.io/badge/Built%20With-Next.js%20%7C%20React-000?style=for-the-badge&logo=next.js" alt="Built With"/>
   <img src="https://img.shields.io/badge/Powered%20By-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap" alt="Bootstrap"/>
+  <img src="https://img.shields.io/github/actions/workflow/status/Chauhan2023/freelance-portfolio-website/deploy.yml?style=for-the-badge&label=CI" alt="CI"/>
 </div>
 
 <br/>
