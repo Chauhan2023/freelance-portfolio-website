@@ -270,6 +270,20 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 4. Push to the branch (`git push origin feature/amazing`)
 5. Open a Pull Request
 
+### Code Style
+
+- Use 2-space indentation for HTML/CSS/JS
+- Follow existing naming conventions (camelCase for JS, kebab-case for CSS)
+- Keep `projectData` entries consistent with existing format
+
+### PR Naming Convention
+
+| Type | Format | Example |
+|------|--------|---------|
+| Feature | `feat: description` | `feat: add Hotel category` |
+| Bug fix | `fix: description` | `fix: modal scroll issue` |
+| Docs | `docs: description` | `docs: update README` |
+
 ---
 
 ## 📄 License
