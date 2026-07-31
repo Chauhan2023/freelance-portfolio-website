@@ -218,10 +218,23 @@ This is a static site. Deploy anywhere:
 
 ## 📋 Changelog
 
+### v1.1.0 (2026-07-31)
+- Added Pan Global Hospital to Hospital category
+- Updated README with CI badge and expanded FAQ
+
 ### v1.0.0 (2026-07-30)
 - Initial release with category-based portfolio
 - Dark theme with glassmorphism cards
 - Modal system for project previews
+
+---
+
+## 📊 Version History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.1.0 | 2026-07-31 | Pan Global Hospital, README improvements |
+| v1.0.0 | 2026-07-30 | Initial release with 9 categories, 30+ projects |
 
 ---
 
