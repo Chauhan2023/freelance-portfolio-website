@@ -14,6 +14,12 @@
 
 ---
 
+### 🔗 Quick Links
+
+[Features](#-features) • [Project Structure](#️-project-structure) • [Live Projects](#-live-projects-showcased) • [Getting Started](#-getting-started) • [FAQ](#-faq) • [Contributing](#-contributing)
+
+---
+
 ## ✨ Features
 
 - 🏢 **Category-based layout** — Real Estate, Hospital, Import/Export & more
