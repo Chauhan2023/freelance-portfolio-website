@@ -59,6 +59,7 @@ freelance-portfolio-website/
 | 🏘️ Real Estate | Grand Spruce Lodge    | Next.js               | [Live Demo](https://chauhan2023.github.io/kahris/) |
 | 🏥 Hospital     | Avatar Hospital       | Next.js, Tailwind CSS | [Live Demo](https://avatar-hospital.vercel.app/) |
 | 🏥 Hospital     | Aakash Healthcare     | Next.js               | [Live Demo](https://aakashhealthcare.com/) |
+| 🏥 Hospital     | Pan Global Hospital   | HTML, CSS, JS         | [Live Demo](https://shonnajones6.github.io/panglobalhospital/) |
 | 🌍 Import/Export| Steadfast Overseas    | React                 | [Live Demo](https://steadfastoverseas.com/) |
 
 ---
@@ -141,7 +142,7 @@ For direct help, email us at **contact@websharthi.com**.
 | Gym | 4 | 🏋️ |
 | School | 8 | 🏫 |
 | Real Estate | 3 | 🏘️ |
-| Hospital | 4 | 🏥 |
+| Hospital | 5 | 🏥 |
 | Import/Export | 4 | 🌍 |
 | Cafe / Restaurant | 4 | 🍽️ |
 | Furniture | 4 | 🛋️ |
