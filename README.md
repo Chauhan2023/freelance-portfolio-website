@@ -136,6 +136,17 @@ For direct help, email us at **contact@websharthi.com**.
 
 ---
 
+## 📈 Project Stats
+
+| Metric | Count |
+|--------|-------|
+| Total Categories | 9 |
+| Total Projects | 36+ |
+| Technologies Used | 12 |
+| Live Demos | 36+ |
+
+---
+
 ## 📂 Categories Available
 
 | Category | Projects | Icon |
