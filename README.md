@@ -236,6 +236,15 @@ A: Append an object to the `projectData` array in `js/script.js`. See the "Addin
 **Q: Can I change the theme colors?**
 A: Yes. Edit the CSS variables in `css/style.css`.
 
+**Q: How do I add a new category?**
+A: Add a new entry to `categoryMeta` in `js/script.js` with an icon and description. Projects using that category will automatically group together.
+
+**Q: Is this optimized for mobile?**
+A: Yes. The site is fully responsive with Bootstrap 5's grid system and custom media queries in `css/style.css`.
+
+**Q: Can I deploy this to my own domain?**
+A: Absolutely. This is a static site — deploy to GitHub Pages, Vercel, Netlify, or any static hosting provider.
+
 ---
 
 ## 🤝 Contributing
