@@ -104,7 +104,15 @@
     <div class="container">
       <h2 class="text-center fw-bold mb-1">Our <span class="text-gradient">Categories</span></h2>
       <p class="text-center text-secondary mb-5">Click any category to see all projects inside.</p>
+      <div class="category-search">
+        <i class="bi bi-search"></i>
+        <input type="text" id="categorySearch" placeholder="Search categories or projects…" autocomplete="off" />
+      </div>
       <div class="row g-4" id="categoryGrid"></div>
+      <div id="emptyState" class="text-center text-secondary mt-4" style="display:none">
+        <i class="bi bi-emoji-frown fs-1"></i>
+        <p class="mt-2 mb-0">No categories or projects match your search.</p>
+      </div>
     </div>
   </section>
 

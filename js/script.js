@@ -417,6 +417,33 @@ Object.entries(groups).forEach(([cat, projects], idx) => {
   categoryGrid.appendChild(col);
 });
 
+/* ---- search filter ---- */
+const categorySearch = document.getElementById("categorySearch");
+
+categorySearch.addEventListener("input", () => {
+  const q = categorySearch.value.trim().toLowerCase();
+
+  Object.entries(groups).forEach(([cat, projects]) => {
+    const card = categoryGrid.querySelector(`[data-category="${CSS.escape(cat)}"]`);
+    if (!card) return;
+
+    const matches =
+      cat.toLowerCase().includes(q) ||
+      projects.some((p) =>
+        (p.name + " " + p.desc + " " + p.tech.join(" ")).toLowerCase().includes(q)
+      );
+
+    card.style.display = matches ? "" : "none";
+  });
+
+  const emptyState = document.getElementById("emptyState");
+  const visible = Array.from(categoryGrid.querySelectorAll(".cat-card")).filter(
+    (c) => c.style.display !== "none"
+  ).length;
+
+  if (emptyState) emptyState.style.display = visible === 0 ? "block" : "none";
+});
+
 /* ---- modal ---- */
 const modalEl = document.getElementById("projectModal");
 const modalTitle = document.getElementById("modalTitle");
