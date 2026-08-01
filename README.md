@@ -24,8 +24,12 @@
 
 - 🏢 **Category-based layout** — Real Estate, Hospital, Import/Export & more
 - 🖱️ **Click-to-open modals** — each category reveals all its projects
+- 🔍 **Live search filter** — instantly filter categories & projects by keyword
 - 🛠 **Tech stack logos** — real Devicon icons for React, Next.js, Tailwind, Bootstrap & more
 - 🌙 **Dark theme** — glassmorphism cards, gradient accents, smooth animations
+- ⚡ **Back-to-top button** — one-click scroll to top
+- 🏷️ **Client marquee** — animated strip of trusted brand names
+- 💡 **About section** — why-choose-us highlights
 - 📱 **Fully responsive** — works on desktop, tablet & mobile
 
 ---
@@ -235,6 +239,13 @@ This is a static site. Deploy anywhere:
 
 ## 📋 Changelog
 
+### v1.2.0 (2026-08-01)
+- Added client marquee strip section
+- Added back-to-top button
+- Added live category/project search filter
+- Added About section with feature highlights
+- Updated navigation and README
+
 ### v1.1.0 (2026-07-31)
 - Added Pan Global Hospital to Hospital category
 - Updated README with CI badge and expanded FAQ
@@ -250,6 +261,7 @@ This is a static site. Deploy anywhere:
 
 | Version | Date | Changes |
 |---------|------|---------|
+| v1.2.0 | 2026-08-01 | Client marquee, back-to-top button, search filter, About section |
 | v1.1.0 | 2026-07-31 | Pan Global Hospital added, README enhancements, CI badge, expanded FAQ |
 | v1.0.0 | 2026-07-30 | Initial release with 9 categories, 30+ projects |
 
