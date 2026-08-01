@@ -456,6 +456,17 @@ window.addEventListener("scroll", () => {
   navbar.classList.toggle("scrolled", window.scrollY > 50);
 });
 
+/* ---- back to top button ---- */
+const backToTop = document.getElementById("backToTop");
+
+window.addEventListener("scroll", () => {
+  backToTop.classList.toggle("visible", window.scrollY > 400);
+});
+
+backToTop.addEventListener("click", () => {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
+
 /* ---- stat counter animation ---- */
 function animateCounters() {
   document.querySelectorAll(".stat-number").forEach((el) => {

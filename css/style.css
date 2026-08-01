@@ -635,6 +635,41 @@ footer .footer-links a:hover {
   background: linear-gradient(180deg, #f093fb, #4facfe);
 }
 
+/* ---------- BACK TO TOP ---------- */
+.back-to-top {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  border: none;
+  background: linear-gradient(135deg, #f5576c, #4facfe);
+  color: #fff;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: opacity 0.3s, transform 0.3s, visibility 0.3s, box-shadow 0.3s;
+  cursor: pointer;
+  z-index: 1040;
+  box-shadow: 0 8px 24px rgba(245, 87, 108, 0.35);
+}
+
+.back-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.back-to-top:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(245, 87, 108, 0.5);
+}
+
 /* ---------- ANIMATIONS ---------- */
 @keyframes fadeUp {
   from {
