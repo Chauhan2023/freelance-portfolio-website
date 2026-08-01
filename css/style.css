@@ -210,6 +210,51 @@ body {
   font-weight: 500;
 }
 
+/* ---------- CLIENTS MARQUEE ---------- */
+.clients-section {
+  padding: 2.5rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  background: rgba(255, 255, 255, 0.01);
+  overflow: hidden;
+}
+
+.clients-title {
+  font-size: 0.85rem;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #6b7280;
+  font-weight: 600;
+}
+
+.clients-marquee {
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
+  mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
+}
+
+.clients-track {
+  display: flex;
+  gap: 2rem;
+  width: max-content;
+  animation: marquee 24s linear infinite;
+}
+
+.clients-track span {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #a0a5b5;
+  white-space: nowrap;
+  padding: 0.5rem 1.2rem;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 50px;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
 /* ---------- SECTION ---------- */
 .section {
   padding: 5.5rem 0;
