@@ -25,6 +25,7 @@ const techIconMap = {
   "Vuetify":        "devicon-vuetify-plain colored",
   "Prisma":         "devicon-prisma-original",
   "Styled Components": "devicon-react-original colored",
+  "WordPress":      "devicon-wordpress-plain colored",
 };
 
 function renderTechStack(techArr) {
@@ -373,6 +374,61 @@ const projectData = [
     tech: ["HTML", "CSS", "JS"],
     pages: "Home (3 demos), Services, Doctors, Appointment, Shop, Blog, About, Contact",
     link: "https://eye-care.cmsmasters.studio/"
+  },
+  // ──────── MAKEUP & BEAUTY ────────
+  {
+    category: "Makeup & Beauty",
+    icon: "💄",
+    name: "Reine",
+    desc: "Premium beauty salon HTML template with 12 homepage layouts, online booking form, gift cards & 15 inner pages.",
+    tech: ["HTML", "CSS", "JS", "Bootstrap 5"],
+    pages: "12 Home Demos (Beauty Center, Nail Salon, Hair Salon, Skincare Center, Barber Shop), About, Gallery, Pricing, Artists, Booking, Locations, Blog, Contact",
+    link: "https://dsathemes.com/html/r_eine_1.1/index.html"
+  },
+  {
+    category: "Makeup & Beauty",
+    icon: "💄",
+    name: "Lakrua",
+    desc: "Nail salon premium HTML5 template with 12 layout demos, a fully working reservation form & 18 practical inner pages.",
+    tech: ["HTML", "CSS", "JS", "Bootstrap 5"],
+    pages: "12 Home Demos, About, Services, Pricing, Artists + Staff, Gallery, Gift Cards, Testimonials, Booking Online, Locations, Blog, Contact",
+    link: "https://dsathemes.com/html/lak_1.1/index.html"
+  },
+  {
+    category: "Makeup & Beauty",
+    icon: "💄",
+    name: "RoyalSpa",
+    desc: "Responsive spa & beauty template with 500+ pages, multi/single/boxed/dark/RTL layouts & working booking, appointment & job forms.",
+    tech: ["HTML", "CSS", "JS", "jQuery"],
+    pages: "Multi/Single/Boxed/Dark/RTL Layouts, Home Variations, Appointment, Booking, Services, Gallery, Portfolio, Shop, Blog, Contact",
+    link: "https://html.kodesolution.com/2016/royalspa-html/demo/"
+  },
+  {
+    category: "Makeup & Beauty",
+    icon: "💄",
+    name: "Sereniva",
+    desc: "Holistic wellness spa WordPress theme with signature rituals, membership plans, master therapists & wellness journal.",
+    tech: ["HTML", "CSS", "JS", "WordPress"],
+    pages: "Home (Slider / Minimal / Boxed), About, Services (Massage, Sauna, Facial, Yoga), Pricing, Team, Gallery, Shop, Journal, Booking, Contact",
+    link: "https://theme-crazy.com/wp/sereniva"
+  },
+  {
+    category: "Makeup & Beauty",
+    icon: "💄",
+    name: "Spa Alfa",
+    desc: "Beauty salon & spa Elementor Pro template kit with facial treatments, body massage, aroma therapy, pricing plans & booking.",
+    tech: ["HTML", "CSS", "JS", "WordPress"],
+    pages: "Home, About, Services, Services Details, Team, Testimonials, FAQ, Pricing, Booking, Blog, 404, Contact",
+    link: "https://kits.weblayoutpro.com/spalafa/"
+  },
+  {
+    category: "Makeup & Beauty",
+    icon: "💄",
+    name: "Makeover",
+    desc: "Spa salon responsive WordPress theme with 3+ unique home versions, services, shop, gallery, team & appointment pages.",
+    tech: ["HTML", "CSS", "JS", "WordPress"],
+    pages: "Home Versions, Services, Shop, Blog, Gallery, Team, Appointment, Other Pages",
+    link: "https://themewar.com/wp/makeover/"
   }
 ];
 
@@ -393,6 +449,7 @@ const categoryMeta = {
   Furniture:       { icon: "🛋️", desc: "Furniture & home decor e-commerce stores with product catalogs." },
   "Medical eCommerce": { icon: "💊", desc: "Pharmacy & medical equipment e-commerce stores with product catalogs." },
   Clinic:          { icon: "👁️", desc: "Medical clinic websites with services, doctors & appointments." },
+  "Makeup & Beauty": { icon: "💄", desc: "Beauty salons, spas, nail studios & cosmetics websites with booking systems." },
 };
 
 /* ---- render category cards ---- */
